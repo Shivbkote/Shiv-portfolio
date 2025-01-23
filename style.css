@@ -842,8 +842,8 @@ section.active{
 
     .home-image .img-box{
         position: relative;
-        width: 35vw;
-        height: 35vw;
+        width: 65vw;
+        height: 65vw;
         border-radius: 50%;
         padding: .5rem;
         display: flex;
