@@ -837,7 +837,7 @@ section.active{
         display: block;
         width: 80%;
         object-fit: cover;
-        /* mix-blend-mode: lighten; */
+        mix-blend-mode: lighten;
     }
 
     .home-image .img-box{
